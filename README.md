@@ -9,7 +9,6 @@ Currently available:<br/>
 2. Notifications mechanism<br/>
 2. Staff list with force updating and fake deleting<br/>
 
-DEMO: http://realestate-admin.eu.ai
 
 email: steve@gmail.com<br/>
 pass:  password
